@@ -4,3 +4,7 @@
     height: 500%; /* defini uma altura fixa para imagens */
     object-fit: cover; /* ajusta as imagens sem espaço e distorção */
 }
+
+.mb-2{
+    width: 25%;
+}
